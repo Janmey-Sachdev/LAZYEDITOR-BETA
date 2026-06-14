@@ -4,3 +4,5 @@ If you want to use it as a standlone .exe file just install PyInstaller and run 
 WARNING: The devoloper is not responsible for any damge caused to your device.
 
 THANK YOU!
+
+To visit the LAZYEDITOR website enter this URL in your browser
